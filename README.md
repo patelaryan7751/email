@@ -29,6 +29,7 @@ Use "email [command] --help" for more information about a command.
 * Run `email send` to enter all information and press `Enter`
 
 ![live](https://user-images.githubusercontent.com/33368759/54043876-a570c400-41f3-11e9-9a7a-ec3269c7e5d0.PNG)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ## TODO
 * [ ] Avoid sending mails to spam folder
